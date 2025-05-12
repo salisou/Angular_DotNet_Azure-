@@ -1,0 +1,6 @@
+@LEC.OnlineCours.API_HostAddress = http://localhost:5091
+
+GET {{LEC.OnlineCours.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

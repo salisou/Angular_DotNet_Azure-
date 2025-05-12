@@ -1,0 +1,1 @@
+﻿dotnet ef dbcontext scaffold "Server=(localdb)\MSSQLLOCALDB;Database=OnlineCourseDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models -c OnlinecourseContext
