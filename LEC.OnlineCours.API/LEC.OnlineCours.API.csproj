@@ -18,10 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\LEC.OnlineCours.Core\LEC.OnlineCours.Core.csproj" />
     <ProjectReference Include="..\LEC.OnlineCours.Data\LEC.OnlineCours.Data.csproj" />
     <ProjectReference Include="..\LEC.OnlineCours.Services\LEC.OnlineCours.Services.csproj" />

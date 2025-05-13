@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace LEC.OnlineCours.Core.Models;
+﻿namespace LEC.OnlineCours.Core.Models;
 
 public partial class Course
 {
